@@ -3,10 +3,10 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-
+[Jp]on/
 # Other files and folders
 .settings/
-
+fafafa.py
 # Executables
 *.swf
 *.air
